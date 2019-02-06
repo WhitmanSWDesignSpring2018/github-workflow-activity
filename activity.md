@@ -20,8 +20,8 @@ In this activity your team will play out several scenarios of concurrent develop
 
 ## Setup the project
 
-- Help the maintainer to create a new team and repository through GitHub Classroom. Do not join my TEST team.
-https://classroom.github.com/group-assignment-invitations/e592a0be645631543daeb5262a857163
+- Help the maintainer to create a new team and repository through GitHub Classroom. Here is the invitation link:
+https://classroom.github.com/g/KK2kvs91
 
 ## Contributor-1 setup
 
